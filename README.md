@@ -1,0 +1,1 @@
+Analyzed an e-commerce sales dataset using Python and Pandas to extract insights on customer purchases, payment methods, and email providers. This project strengthened my hands-on skills in data analysis and data filtering.
